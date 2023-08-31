@@ -1,6 +1,6 @@
 # webpack react demo
 
-## 安装
+## 
 ```
 yarn --development 
 
@@ -9,13 +9,13 @@ yarn --development
 npm install --development 
 ```
 
-## 测试
+## 
 
 ```
 npm start
 ```
 
-## 构建
+## 
 
 ```
 npm run build
